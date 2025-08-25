@@ -1,0 +1,6 @@
+.colab_secrets/
+*.pem
+id_ed25519*
+*_pat.txt
+*_token.txt
+token*.json
